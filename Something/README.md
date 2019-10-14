@@ -1,5 +1,8 @@
-﻿## Licence
+﻿## What is this repository?  
+Mascapara training .net core programm
+
+## Licence  
 MIT
 
-## Author
+## Author  
 Maskapara
