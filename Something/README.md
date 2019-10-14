@@ -1,1 +1,5 @@
-﻿## MIT
+﻿## Licence
+MIT
+
+## Author
+Maskapara
