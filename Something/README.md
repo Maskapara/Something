@@ -1,2 +1,5 @@
-﻿## Author  
+﻿## 
+.net core
+
+## Author  
 Maskapara
