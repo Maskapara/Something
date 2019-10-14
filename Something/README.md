@@ -1,5 +1,2 @@
-﻿## Licence  
-MIT
-
-## Author  
+﻿## Author  
 Maskapara
